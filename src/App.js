@@ -6,7 +6,7 @@ export default function VotingApp() {
     Alice: 0,
     Bob: 0,
     Charlie: 0,
-  });z
+  });
 
  
   const handleVote = (candidate) => {
